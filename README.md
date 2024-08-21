@@ -1,6 +1,6 @@
 # mbit
 
-Extension for Yahboom_mbit_en V3.0.4
+Extension for Yahboom board for microbit_en V1
 
 ## License
 
@@ -10,3 +10,8 @@ MIT
 
 * for PXT/microbit
 (The metadata above is needed for package search.)
+
+#how to use
+1. Open your make code project.
+2. Click Extensions on the side menu
+3. Copy the url "https://github.com/javamessage/yahboom_board_mbit" to search or enter project url ...
