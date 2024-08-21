@@ -11,7 +11,7 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
-#how to use
+## How to Use
 1. Open your make code project.
 2. Click Extensions on the side menu
 3. Copy the url "https://github.com/javamessage/yahboom_board_mbit" to search or enter project url ...
